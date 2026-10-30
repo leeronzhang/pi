@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "upstream": "https://github.com/earendil-works/pi",
+  "tag": "v1.4.0",
+  "sourceCommit": "4a080252f06caf63a525d7873c5d94d3c23887e0",
+  "assetUrl": "https://github.com/earendil-works/pi/releases/download/v1.4.0/pi-windows-x64.zip",
+  "name": "pi-windows-x64.zip",
+  "bytes": 45136547,
+  "sha256": "0f7256ea8bdac3af20012b94fdc1252a31cc6dc0d2f9b9eb539555d22e3e321b",
+  "licenses": {
+    "pi-LICENSE.txt": "0457f5bcec3b3b211605dfb5d1a49042fd638f3686a410fe099c24a25af13c48",
+    "bun-LICENSE.md": "2c6160ec8fb853f7e8f97d9b249e756c9b0ac44860a68b6bf4f1b0bcbc5c3741"
+  }
+}
